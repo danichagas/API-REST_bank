@@ -40,3 +40,16 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+
+# Technologies used
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,gradle,hibernate,git)](https://skillicons.dev)
+
+**Java** - For the development of the application back-end. <br>
+**Spring** - Framework used in apllication. <br>
+**PostegreSQL** - Database used. <br>
+**Gradle** - For dependency management.
+**Hibernate** - For high-performance object/relational querying and persistence. <br>
+**Git** - For version control
+
+# What problem does this API solve?
+- This API that I developed was made thinking about helping people create a bank account, more easily and quickly, faster transfers, faster responses, and of course... a lighter and more optimized application, and with a system fluid.
