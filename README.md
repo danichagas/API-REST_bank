@@ -1,5 +1,5 @@
 # About Project
-This API was developed thinking about creating a banking system similar to one of the largest banks in Brazil... Santander
+This API was developed thinking about creating a faster and more practical banking system.
 
 # Class structure (Domain API)
 
