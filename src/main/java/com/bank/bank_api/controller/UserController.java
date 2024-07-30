@@ -18,11 +18,11 @@ public class UserController {
         this.userService = userService;
     }
 
-    @GetMapping("/{id}")
-    public ResponseEntity<User> findById(@PathVariable Long id) {
-        var user = userService.findById(id);
-        return ResponseEntity.ok(user);
-    }
+        @GetMapping("/{id}")
+        public ResponseEntity<User> findById(@PathVariable Long id) {
+            var user = userService.findById(id);
+            return ResponseEntity.ok(user);
+        }
 
     @PostMapping("/{id}")
     public ResponseEntity<User> create(@RequestBody User userToCreate) {
