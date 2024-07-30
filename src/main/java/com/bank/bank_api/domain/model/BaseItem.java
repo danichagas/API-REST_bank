@@ -1,4 +1,4 @@
-package com.santander.santander_api.domain.model;
+package com.bank.bank_api.domain.model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

@@ -1,4 +1,4 @@
-package com.santander.santander_api;
+package com.bank.bank_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

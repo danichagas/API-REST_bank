@@ -1,6 +1,6 @@
-package com.santander.santander_api.domain.repository;
+package com.bank.bank_api.domain.repository;
 
-import com.santander.santander_api.domain.model.User;
+import com.bank.bank_api.domain.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

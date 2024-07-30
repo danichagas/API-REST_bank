@@ -1,6 +1,6 @@
-package com.santander.santander_api.service;
+package com.bank.bank_api.service;
 
-import com.santander.santander_api.domain.model.User;
+import com.bank.bank_api.domain.model.User;
 
 public interface UserService {
     User findById(Long id);

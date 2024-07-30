@@ -1,9 +1,9 @@
-package com.santander.santander_api.service.impl;
+package com.bank.bank_api.service.impl;
 
 
-import com.santander.santander_api.domain.model.User;
-import com.santander.santander_api.domain.repository.UserRepository;
-import com.santander.santander_api.service.UserService;
+import com.bank.bank_api.domain.model.User;
+import com.bank.bank_api.domain.repository.UserRepository;
+import com.bank.bank_api.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;
